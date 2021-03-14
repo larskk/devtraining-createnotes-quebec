@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="moment-timezone-with-data-2010-2020-v0.5">db6689c1cb11120000f8d856634c9c3b</sp_dependency>
+        <sp_widget display_value="clock clone">f181f10b2f3220102c76bab62799b697</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 12:11:12</sys_created_on>
+        <sys_id>7d81f10b2f3220102c76bab62799b699</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>moment-timezone-with-data-2010-2020-v0.5.clock clone</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_7d81f10b2f3220102c76bab62799b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 12:11:12</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>
